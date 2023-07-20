@@ -1,5 +1,4 @@
-<script type ="text/javascript">
+// help 
 console.log ("stan LOONA pls");
-</script>
 
 
